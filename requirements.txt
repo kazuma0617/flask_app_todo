@@ -10,3 +10,4 @@ wtforms==2.3.3
 jinja2==3.0.3
 email-validator==1.1.3
 SQLALchemy==1.4.44
+gunicorn==20.1.0
